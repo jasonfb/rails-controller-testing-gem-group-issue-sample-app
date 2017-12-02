@@ -1,24 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+details https://github.com/rails/rails-controller-testing/issues/37
 
-Things you may want to cover:
+- this is with buggy symptom; run `bundle exec rspec` to reproduce symptom
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- to see effect discussed regarding the inside/outside of the :test group in the Gemfile, see notes in Gemfile
